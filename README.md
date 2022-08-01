@@ -4,7 +4,7 @@
 ## 编程环境
 1. 编程平台：vscode远程连接linux服务器方式
 2. 编程语言：python >= 3.8，javascript(用于实现网页,在具体运行模型时可以不用管)
-3. python依赖的库详见文件requirements.txt
+3. python依赖的库详见文件[requirements.txt](requirements.txt)
 4. 机器要求：训练时需要使用GPU，GPU Memory >= 20G
 ## 文件说明
 1. benchmark文件夹
